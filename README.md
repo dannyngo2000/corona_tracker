@@ -1,4 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+
+This is a web application to track live COVID-19 cases around the world. The source of data is from https://corona.lmao.ninja/ API. The user can check coronavirus cases worldwide and from the countries of intertest. The graph will reflect cases according to the country that user chose. There are also active, deaths and recovered display.
+
+Try it out: https://tracking-covid19-cases.web.app/
+
 
 ## Available Scripts
 
